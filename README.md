@@ -11,3 +11,5 @@ This is a basic project for hand written digits recognition model for a virtual 
 Model Training-
 
 Result Analysis-
+
+In the attached Jupyter Notebook file, I have completed a lot of different analysis to prove this hypothesis.
